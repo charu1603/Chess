@@ -4,6 +4,7 @@
 
 This is a real-time multiplayer chess application built using Socket.io, Node js, Express js.
 
+![Screenshot (698)](https://github.com/user-attachments/assets/511b2597-8b83-4ae2-8899-93dd94b81525)
 
 ## Technologies Used
 

@@ -34,3 +34,8 @@ This is a real-time multiplayer chess application built using Socket.io, Node js
     ```
 5. Open your browser and go to `http://localhost:3001`.
 
+I am still working on this, trying to improve
+1) frontend part
+2) queue for storing the moves
+3) login/signup functionality
+4) live leaderboard rating system
